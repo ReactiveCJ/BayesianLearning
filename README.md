@@ -38,3 +38,7 @@ http://www.cs.columbia.edu/~scohen/bayesian/
 
 Advanced NLP(Bayesian Methods)
 https://courses.engr.illinois.edu/cs598jhm/sp2013/index.html
+
+##Deep Learning:
+Bayesian Reasoning and Deep Learning
+http://blog.shakirm.com/wp-content/uploads/2015/10/Bayes_Deep.pdf

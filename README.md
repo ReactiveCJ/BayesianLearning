@@ -20,7 +20,7 @@ http://www.cedar.buffalo.edu/~srihari/CSE574/index.html
 
 Pattern Recognition and Machine Learning (PRML) by Christopher M. Bishop
 
-Bayesian Reasoning and Machine Learning (BRML) by David Barber. Freely available online.
+Bayesian Reasoning and Machine Learning (BRML) by David Barber. [Freely available online](http://www.cs.ucl.ac.uk/staff/d.barber/brml/).
 
 Machine Learning A Probabilistic Perspective (BRML) by Keven.P.Murphy
 

@@ -1,11 +1,11 @@
 # BayesianLearning
 
 
-Roadmap:
+##Roadmap:
 
 https://www.metacademy.org/roadmaps/rgrosse/bayesian_machine_learning
 
-Course:
+##Course:
 
 Bayesian Method in Machine Learning
 http://www.cse.wustl.edu/~garnett/cse515t/
@@ -16,17 +16,17 @@ http://www.seas.harvard.edu/courses/cs281/
 Machine Learning and Probabilistic Model
 http://www.cedar.buffalo.edu/~srihari/CSE574/index.html
 
-Book:
+##Book:
 
 Pattern Recognition and Machine Learning (PRML) by Christopher M. Bishop
 Bayesian Reasoning and Machine Learning (BRML) by David Barber. Freely available online.
 Machine Learning A Probabilistic Perspective (BRML) by Keven.P.Murphy
 
-Tools:
+##Tools:
 
 http://mc-stan.org/
 
-More:
+##More:
 
 Advanced Topic Modeling
 http://mimno.infosci.cornell.edu/info6150/

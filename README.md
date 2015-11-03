@@ -22,7 +22,7 @@ http://www.cedar.buffalo.edu/~srihari/CSE574/index.html
 
 *Bayesian Reasoning and Machine Learning (BRML)* by David Barber. [Freely available online](http://www.cs.ucl.ac.uk/staff/d.barber/brml/).
 
-*Machine Learning A Probabilistic Perspective (BRML)* by Keven.P.Murphy
+*Machine Learning A Probabilistic Perspective (MLAPP)* by Keven.P.Murphy
 
 ##Tools:
 

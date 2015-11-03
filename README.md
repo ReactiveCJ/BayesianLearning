@@ -24,6 +24,9 @@ http://www.cedar.buffalo.edu/~srihari/CSE574/index.html
 
 *Machine Learning A Probabilistic Perspective (MLAPP)* by Keven.P.Murphy
 
+##Generalized Linear Model
+http://data.princeton.edu/wws509/notes/
+
 ##Tools:
 
 http://mc-stan.org/

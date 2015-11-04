@@ -59,7 +59,6 @@ Exact Inference  - Exact to get the posterior distribution
 Approximate inference - Approximate the posterior distribution
 
 	* Variational Inference
-	* 
 		* Mean field approximation
 		* Structured Variational approximation
 		* Expectation Propagation

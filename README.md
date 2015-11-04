@@ -49,3 +49,35 @@ http://www.cs.columbia.edu/~scohen/bayesian/
 Advanced NLP(Bayesian Methods)
 https://courses.engr.illinois.edu/cs598jhm/sp2013/index.html
 
+##Inference
+Exact Inference  - Exact to get the posterior distribution
+
+	* Belief propagation for trees
+	* Variable Elimination Algorithm
+	* Junction tree Algorithm
+
+Approximate inference - Approximate the posterior distribution
+
+	* Variational Inference
+	* 
+		* Mean field approximation
+		* Structured Variational approximation
+		* Expectation Propagation
+		* Variational Bayes for Bayesian Model
+
+	* Markov Random Field
+	* Variational message passing
+	* Loopy belief propagation
+
+Sample Method - Approximate sample from the posterio distribution
+
+	* Markov Chain Monte Carlo - Gibss Sampling
+	* Rejection sampling
+	* Particle filtering
+
+Maximum Likelihood
+
+	* Expectation Maximization 
+	* Gradient Descent
+
+

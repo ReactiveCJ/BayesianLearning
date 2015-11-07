@@ -37,6 +37,10 @@ http://blog.shakirm.com/wp-content/uploads/2015/10/Bayes_Deep.pdf
 
 Discussion on Bayesian and Deep Learning
 https://www.quora.com/Why-are-very-few-schools-involved-in-deep-learning-research-Why-are-they-still-hooked-on-Bayesian-methods
+Deep Learning Course
+		http://deeplearning.cs.cmu.edu/
+
+		http://ufldl.stanford.edu/tutorial/
 
 ##More:
 

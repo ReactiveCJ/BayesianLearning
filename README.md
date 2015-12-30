@@ -44,6 +44,8 @@ http://deeplearning.cs.cmu.edu/
 
 http://ufldl.stanford.edu/tutorial/
 
+http://vision.stanford.edu/teaching/cs231n/
+
 
 ##More:
 

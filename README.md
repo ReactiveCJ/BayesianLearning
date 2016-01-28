@@ -40,11 +40,13 @@ https://www.quora.com/Why-are-very-few-schools-involved-in-deep-learning-researc
 
 Deep Learning Course
 
-http://deeplearning.cs.cmu.edu/
+NLP: http://deeplearning.cs.cmu.edu/
 
-http://ufldl.stanford.edu/tutorial/
+Unsupervised Learning: http://ufldl.stanford.edu/tutorial/
 
-http://vision.stanford.edu/teaching/cs231n/
+CNN: http://vision.stanford.edu/teaching/cs231n/
+
+ALL: https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH
 
 
 ##More:

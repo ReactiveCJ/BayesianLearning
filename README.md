@@ -97,6 +97,6 @@ Maximum Likelihood
 
 Relate witch Gradient Descent
 
-	* stochastic gradient variational inference - Hoffman, M., Bach, F., and Blei, D. Online learning for latent dirichlet allocation.
-	* stochastic gradient MCMC algorithms  Stochastic gradient riemannian langevin dynamics on the probability simplex
+	* stochastic gradient variational inference - Hoffman, M., Bach, F., and Blei, D. Online learning for latent dirichlet allocation
+	* stochastic gradient MCMC algorithms - Stochastic gradient riemannian langevin dynamics on the probability simplex
 

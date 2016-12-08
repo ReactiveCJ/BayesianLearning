@@ -46,6 +46,8 @@ Unsupervised Learning: http://ufldl.stanford.edu/tutorial/
 
 CNN: http://vision.stanford.edu/teaching/cs231n/
 
+Reinforcement Learning: http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+
 Deep Reinforcement Learning: http://rll.berkeley.edu/deeprlcourse/
 
 Video: https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH

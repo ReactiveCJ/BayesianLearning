@@ -83,7 +83,7 @@ Approximate inference - Approximate the posterior distribution
 	* Variational message passing
 	* Loopy belief propagation
 
-Sample Method - Approximate sample from the posterio distribution
+Sample Method - Approximate sample from the posterior distribution
 
 	* Markov Chain Monte Carlo - Gibss Sampling
 	* Rejection sampling
@@ -95,7 +95,7 @@ Maximum Likelihood
 	* Gradient Descent
 
 
-Relate witch Gradient Descent
+Related with Gradient Descent
 
 	* stochastic gradient variational inference - Hoffman, M., Bach, F., and Blei, D. Online learning for latent dirichlet allocation
 	* stochastic gradient MCMC algorithms - Stochastic gradient riemannian langevin dynamics on the probability simplex

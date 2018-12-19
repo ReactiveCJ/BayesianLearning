@@ -1,6 +1,10 @@
 # BayesianLearning
 
 
+##DeepBayesianLearning - great courser
+http://deepbayes.ru/#materials
+
+
 ##Roadmap:
 
 https://www.metacademy.org/roadmaps/rgrosse/bayesian_machine_learning

@@ -1,7 +1,7 @@
 # BayesianLearning
 
 
-##DeepBayesianLearning - great courser
+##DeepBayesianLearning - great course
 http://deepbayes.ru/#materials
 
 

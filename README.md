@@ -20,6 +20,9 @@ http://www.seas.harvard.edu/courses/cs281/
 Machine Learning and Probabilistic Model
 http://www.cedar.buffalo.edu/~srihari/CSE574/index.html
 
+Probabilistic Graphical Models
+https://sailinglab.github.io/pgm-spring-2019/lectures/
+
 ##Book:
 
 *Pattern Recognition and Machine Learning (PRML)* by Christopher M. Bishop
